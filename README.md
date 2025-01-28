@@ -1,3 +1,4 @@
 Unityroomにアップロードした3DaysWithGhostsの中身です
 学習を始めて最初に作成したゲームで、作成期間は学習期間も含めて1月ほどです。
 FPS視点で襲い来る幽霊たちを倒しながら3日間生き残るゲームになっています
+UnityroomURL : https://unityroom.com/games/3dayswithghosts
